@@ -1,0 +1,4 @@
+sh ~/.screenlayout/4kAnd1080p.sh &
+sleep 1s && picom &
+sleep 1s && nitrogen --restore &
+sleep 1s && tint2
